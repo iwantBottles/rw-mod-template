@@ -1,0 +1,10 @@
+{
+  "id": "mycoolmod",
+	"name": "Coolest Mod In History",
+	"authors": "The Author",
+	"version": "1.0.0",
+	"description": "Best mod ever!<LINE>Like, actually.",
+	"requirements": ["moreslugcats", "rwremix"],
+	"requirements_names": ["More Slugcats Expansion", "Rain World Remix"],
+	"checksum_override_version": false
+}
