@@ -39,11 +39,11 @@ Go here to add regions.txt, which you can add your region acronym. More info her
 ## mod\modify\world\hi
 Use this modify the properties file, world file, or display name file of the region specified. In this context (HI) we're using Industrial Complex.
 
-## mod\modify\world\hi-rooms
+## mod\world\hi-rooms
 Use this directory to modify rooms. As said, in this context we're modifying Industrial Complex. I'll list the region acronyms in a different file.
 
 # mods\mod\world
-## THIS IS FOR REGION MODS, OR ADDING NEW ROOMS TO EXISTING REGIONS
+## THIS IS FOR REGION MODS, OR MODIFYING ROOMS IN EXISTING REGIONS
 ## Where the rooms and folder of a region are placed; most notably modded regions
 
 To add new rooms to a region or make your own, you go here.
